@@ -1,0 +1,307 @@
+provinsi,APS,id,tahun
+Aceh,89.23666667,32,2010
+Sumatera Utara,86.03333333,24,2010
+Sumatera Barat,84.46666667,26,2010
+Riau,85.12666667,19,2010
+Jambi,79.98,29,2010
+Sumatera Selatan,79.4,28,2010
+Bengkulu,82.18333333,31,2010
+Lampung,78.89,30,2010
+Kep. Bangka Belitung,75.06666667,25,2010
+Kepulauan Riau,86.02333333,76,2010
+DKI Jakarta,84.2,14,2010
+Jawa Barat,76.28,15,2010
+Jawa Tengah,79.33333333,6,2010
+DI Yogyakarta,88.92333333,5,2010
+Jawa Timur,82.31666667,8,2010
+Banten,76.87,7,2010
+Bali,84.39,18,2010
+Nusa Tenggara Barat,80.83,2,2010
+Nusa Tenggara Timur,75.65,17,2010
+Kalimantan Barat,77.29,12,2010
+Kalimantan Tengah,80.01,27,2010
+Kalimantan Selatan,76.24,11,2010
+Kalimantan Timur,85.31,21,2010
+Sulawesi Utara,81.37,22,2010
+Sulawesi Tengah,77.25,20,2010
+Sulawesi Selatan,77.54333333,13,2010
+Sulawesi Tenggara,81.97,4,2010
+Gorontalo,76.08333333,3,2010
+Sulawesi Barat,72.79666667,77,2010
+Maluku,87.84,10,2010
+Maluku Utara,84.03666667,9,2010
+Papua Barat,81.6,23,2010
+Papua,66.28333333,16,2010
+Indonesia,80.09,NA,2010
+Aceh,88.5,32,2011
+Sumatera Utara,84.81333333,24,2011
+Sumatera Barat,85.68333333,26,2011
+Riau,83.79,19,2011
+Jambi,82.11333333,29,2011
+Sumatera Selatan,80.31333333,28,2011
+Bengkulu,84.08,31,2011
+Lampung,80.19,30,2011
+Kep. Bangka Belitung,77.24333333,25,2011
+Kepulauan Riau,87.45,76,2011
+DKI Jakarta,83.41333333,14,2011
+Jawa Barat,78.07333333,15,2011
+Jawa Tengah,80.58333333,6,2011
+DI Yogyakarta,90.89666667,5,2011
+Jawa Timur,82.30666667,8,2011
+Banten,80.9,7,2011
+Bali,86.32,18,2011
+Nusa Tenggara Barat,83.11333333,2,2011
+Nusa Tenggara Timur,80.7,17,2011
+Kalimantan Barat,76.79666667,12,2011
+Kalimantan Tengah,79.8,27,2011
+Kalimantan Selatan,78.23,11,2011
+Kalimantan Timur,86.70666667,21,2011
+Sulawesi Utara,82.12666667,22,2011
+Sulawesi Tengah,80.60333333,20,2011
+Sulawesi Selatan,79.68,13,2011
+Sulawesi Tenggara,82.18,4,2011
+Gorontalo,79.6,3,2011
+Sulawesi Barat,78.61666667,77,2011
+Maluku,85.93,10,2011
+Maluku Utara,84.12666667,9,2011
+Papua Barat,82.8,23,2011
+Papua,64.25,16,2011
+Indonesia,81.18666667,NA,2011
+Aceh,89.43,32,2012
+Sumatera Utara,86.43,24,2012
+Sumatera Barat,86.69333333,26,2012
+Riau,84.23,19,2012
+Jambi,83.17333333,29,2012
+Sumatera Selatan,81.84,28,2012
+Bengkulu,86.65,31,2012
+Lampung,83.02333333,30,2012
+Kep. Bangka Belitung,77.94333333,25,2012
+Kepulauan Riau,88.10333333,76,2012
+DKI Jakarta,84.99333333,14,2012
+Jawa Barat,81.11333333,15,2012
+Jawa Tengah,82.37,6,2012
+DI Yogyakarta,92.72,5,2012
+Jawa Timur,84.04666667,8,2012
+Banten,83.05333333,7,2012
+Bali,88.55333333,18,2012
+Nusa Tenggara Barat,83.5,2,2012
+Nusa Tenggara Timur,82.23,17,2012
+Kalimantan Barat,79.10333333,12,2012
+Kalimantan Tengah,79.78666667,27,2012
+Kalimantan Selatan,80.54333333,11,2012
+Kalimantan Timur,89.05666667,21,2012
+Sulawesi Utara,83.92666667,22,2012
+Sulawesi Tengah,81.24333333,20,2012
+Sulawesi Selatan,82.54333333,13,2012
+Sulawesi Tenggara,83.62,4,2012
+Gorontalo,80.00666667,3,2012
+Sulawesi Barat,78.38666667,77,2012
+Maluku,87.12,10,2012
+Maluku Utara,86.05,9,2012
+Papua Barat,83.92,23,2012
+Papua,64.84333333,16,2012
+Indonesia,83.09,NA,2012
+Aceh,89.86333333,32,2013
+Sumatera Utara,87.46,24,2013
+Sumatera Barat,88.37,26,2013
+Riau,86.24333333,19,2013
+Jambi,84.91333333,29,2013
+Sumatera Selatan,82.92666667,28,2013
+Bengkulu,87.95666667,31,2013
+Lampung,84.83333333,30,2013
+Kep. Bangka Belitung,79.72666667,25,2013
+Kepulauan Riau,89.65333333,76,2013
+DKI Jakarta,86.98666667,14,2013
+Jawa Barat,82.74333333,15,2013
+Jawa Tengah,83.29666667,6,2013
+DI Yogyakarta,92.72,5,2013
+Jawa Timur,84.73333333,8,2013
+Banten,84.27,7,2013
+Bali,89.73,18,2013
+Nusa Tenggara Barat,85.61,2,2013
+Nusa Tenggara Timur,83.86,17,2013
+Kalimantan Barat,80.55,12,2013
+Kalimantan Tengah,81.45666667,27,2013
+Kalimantan Selatan,81.85,11,2013
+Kalimantan Timur,89.95666667,21,2013
+Sulawesi Utara,85.42666667,22,2013
+Sulawesi Tengah,83.77,20,2013
+Sulawesi Selatan,83.52333333,13,2013
+Sulawesi Tenggara,84.32,4,2013
+Gorontalo,81.34666667,3,2013
+Sulawesi Barat,79.79,77,2013
+Maluku,87.83666667,10,2013
+Maluku Utara,86.82,9,2013
+Papua Barat,86.80666667,23,2013
+Papua,67.02,16,2013
+Indonesia,84.35666667,NA,2013
+Aceh,92.70333333,32,2014
+Sumatera Utara,90.36666667,24,2014
+Sumatera Barat,92.36,26,2014
+Riau,89.44333333,19,2014
+Jambi,88.25,29,2014
+Sumatera Selatan,86.89,28,2014
+Bengkulu,91.36,31,2014
+Lampung,87.44,30,2014
+Kep. Bangka Belitung,85.49,25,2014
+Kepulauan Riau,93.08333333,76,2014
+DKI Jakarta,88.79666667,14,2014
+Jawa Barat,85.87333333,15,2014
+Jawa Tengah,87.3,6,2014
+DI Yogyakarta,95.28666667,5,2014
+Jawa Timur,88.66333333,8,2014
+Banten,86.80333333,7,2014
+Bali,92.72666667,18,2014
+Nusa Tenggara Barat,90.68666667,2,2014
+Nusa Tenggara Timur,88.73666667,17,2014
+Kalimantan Barat,85.47333333,12,2014
+Kalimantan Tengah,86.08,27,2014
+Kalimantan Selatan,86.08333333,11,2014
+Kalimantan Timur,92.58,21,2014
+Sulawesi Utara,88.42333333,22,2014
+Sulawesi Tengah,87.52666667,20,2014
+Sulawesi Selatan,86.95333333,13,2014
+Sulawesi Tenggara,88.29666667,4,2014
+Gorontalo,85.85333333,3,2014
+Sulawesi Barat,84.71333333,77,2014
+Maluku,91.00666667,10,2014
+Maluku Utara,89.98666667,9,2014
+Papua Barat,90.93333333,23,2014
+Papua,73.46333333,16,2014
+Indonesia,87.89,NA,2014
+Aceh,93.01333333,32,2015
+Sumatera Utara,90.64,24,2015
+Sumatera Barat,92.65,26,2015
+Riau,89.61333333,19,2015
+Jambi,88.45333333,29,2015
+Sumatera Selatan,87.15,28,2015
+Bengkulu,91.54666667,31,2015
+Lampung,87.63333333,30,2015
+Kep. Bangka Belitung,85.73666667,25,2015
+Kepulauan Riau,93.28333333,76,2015
+DKI Jakarta,89.16,14,2015
+Jawa Barat,86.16,15,2015
+Jawa Tengah,87.50666667,6,2015
+DI Yogyakarta,95.45,5,2015
+Jawa Timur,88.80666667,8,2015
+Banten,87.14333333,7,2015
+Bali,92.83666667,18,2015
+Nusa Tenggara Barat,90.92666667,2,2015
+Nusa Tenggara Timur,88.92333333,17,2015
+Kalimantan Barat,85.67,12,2015
+Kalimantan Tengah,86.22333333,27,2015
+Kalimantan Selatan,86.27666667,11,2015
+Kalimantan Timur,92.74333333,21,2015
+Sulawesi Utara,88.71333333,22,2015
+Sulawesi Tengah,87.87333333,20,2015
+Sulawesi Selatan,87.11666667,13,2015
+Sulawesi Tenggara,88.46333333,4,2015
+Gorontalo,86.15666667,3,2015
+Sulawesi Barat,84.99333333,77,2015
+Maluku,91.23,10,2015
+Maluku Utara,90.30666667,9,2015
+Papua Barat,91.10333333,23,2015
+Papua,73.71333333,16,2015
+Indonesia,88.14,NA,2015
+Aceh,93.17666667,32,2016
+Sumatera Utara,90.77666667,24,2016
+Sumatera Barat,92.74,26,2016
+Riau,89.72333333,19,2016
+Jambi,88.70666667,29,2016
+Sumatera Selatan,87.32,28,2016
+Bengkulu,91.67666667,31,2016
+Lampung,87.75333333,30,2016
+Kep. Bangka Belitung,85.87666667,25,2016
+Kepulauan Riau,93.38333333,76,2016
+DKI Jakarta,89.30333333,14,2016
+Jawa Barat,86.25666667,15,2016
+Jawa Tengah,87.64666667,6,2016
+DI Yogyakarta,95.55333333,5,2016
+Jawa Timur,88.89666667,8,2016
+Banten,87.34,7,2016
+Bali,92.96,18,2016
+Nusa Tenggara Barat,91.08666667,2,2016
+Nusa Tenggara Timur,89.13333333,17,2016
+Kalimantan Barat,85.89,12,2016
+Kalimantan Tengah,86.28666667,27,2016
+Kalimantan Selatan,86.53333333,11,2016
+Kalimantan Timur,92.84333333,21,2016
+Sulawesi Utara,88.94,22,2016
+Sulawesi Tengah,88.01333333,20,2016
+Sulawesi Selatan,87.35333333,13,2016
+Sulawesi Tenggara,88.63,4,2016
+Gorontalo,86.28,3,2016
+Sulawesi Barat,85.11666667,77,2016
+Maluku,91.39333333,10,2016
+Maluku Utara,90.54,9,2016
+Papua Barat,91.33,23,2016
+Papua,74.01333333,16,2016
+Indonesia,88.26666667,NA,2016
+Aceh,93.36333333,32,2017
+Sumatera Utara,90.95,24,2017
+Sumatera Barat,92.88333333,26,2017
+Riau,90.07666667,19,2017
+Jambi,89.00666667,29,2017
+Sumatera Selatan,87.56333333,28,2017
+Bengkulu,92.02333333,31,2017
+Lampung,88.19,30,2017
+Kep. Bangka Belitung,86.34666667,25,2017
+Kepulauan Riau,93.73333333,76,2017
+DKI Jakarta,89.60333333,14,2017
+Jawa Barat,86.63333333,15,2017
+Jawa Tengah,87.86,6,2017
+DI Yogyakarta,95.70333333,5,2017
+Jawa Timur,89.28333333,8,2017
+Banten,87.58333333,7,2017
+Bali,93.10666667,18,2017
+Nusa Tenggara Barat,91.24333333,2,2017
+Nusa Tenggara Timur,89.22666667,17,2017
+Kalimantan Barat,86.16,12,2017
+Kalimantan Tengah,86.49666667,27,2017
+Kalimantan Selatan,86.72666667,11,2017
+Kalimantan Timur,93.26,21,2017
+Sulawesi Utara,89.10666667,22,2017
+Sulawesi Tengah,88.47666667,20,2017
+Sulawesi Selatan,87.61666667,13,2017
+Sulawesi Tenggara,88.78,4,2017
+Gorontalo,86.61666667,3,2017
+Sulawesi Barat,85.33666667,77,2017
+Maluku,91.88666667,10,2017
+Maluku Utara,90.83,9,2017
+Papua Barat,91.59666667,23,2017
+Papua,74.74666667,16,2017
+Indonesia,88.54666667,NA,2017
+Aceh,93.75666667,32,2018
+Sumatera Utara,91.22,24,2018
+Sumatera Barat,92.98666667,26,2018
+Riau,90.43,19,2018
+Jambi,89.25,29,2018
+Sumatera Selatan,87.92333333,28,2018
+Bengkulu,92.18666667,31,2018
+Lampung,88.56333333,30,2018
+Kep. Bangka Belitung,86.55333333,25,2018
+Kepulauan Riau,94.16666667,76,2018
+DKI Jakarta,89.78333333,14,2018
+Jawa Barat,86.94666667,15,2018
+Jawa Tengah,88.19,6,2018
+DI Yogyakarta,96.00333333,5,2018
+Jawa Timur,89.60666667,8,2018
+Banten,87.84333333,7,2018
+Bali,93.27666667,18,2018
+Nusa Tenggara Barat,91.34666667,2,2018
+Nusa Tenggara Timur,89.35333333,17,2018
+Kalimantan Barat,86.54,12,2018
+Kalimantan Tengah,86.82666667,27,2018
+Kalimantan Selatan,86.91,11,2018
+Kalimantan Timur,93.4,21,2018
+Sulawesi Utara,89.34333333,22,2018
+Sulawesi Tengah,88.67666667,20,2018
+Sulawesi Selatan,87.73,13,2018
+Sulawesi Tenggara,89.01333333,4,2018
+Gorontalo,86.96333333,3,2018
+Sulawesi Barat,85.63,77,2018
+Maluku,91.96,10,2018
+Maluku Utara,90.97,9,2018
+Papua Barat,91.73333333,23,2018
+Papua,75.30333333,16,2018
+Indonesia,88.85666667,NA,2018
