@@ -5,11 +5,11 @@ Dashboard ini mencoba untuk menampilkan data yang berkaitan dengan pendidikan di
 https://ardiansatrio.shinyapps.io/pendidikan/
 
 ##About Us
-3KS1 Politeknik Statistika STIS
-Ardian Satrio Utomo (16.9021@stis.ac.id)
-Epan Mareza Prima Hendra (16.9104@stis.ac.id)
-Fenty Berliana Tifalny (16.9137@stis.ac.id)
-Fadhlika Anggit Santoso Putro (16.9111@stis.ac.id)
-I Nyoman Setiawan (16.9186@stis.ac.id)
-Ilmi Aulia Akbar (16.9193@stis.ac.id)
+3KS1 Politeknik Statistika STIS<br>
+Ardian Satrio Utomo (16.9021@stis.ac.id)<br>
+Epan Mareza Prima Hendra (16.9104@stis.ac.id)<br>
+Fenty Berliana Tifalny (16.9137@stis.ac.id)<br>
+Fadhlika Anggit Santoso Putro (16.9111@stis.ac.id)<br>
+I Nyoman Setiawan (16.9186@stis.ac.id)<br>
+Ilmi Aulia Akbar (16.9193@stis.ac.id)<br>
 
