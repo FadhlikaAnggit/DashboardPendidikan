@@ -4,7 +4,7 @@ Dashboard ini mencoba untuk menampilkan data yang berkaitan dengan pendidikan di
 ## Link dashboard public
 https://ardiansatrio.shinyapps.io/pendidikan/
 
-##About Us
+## About Us
 3KS1 Politeknik Statistika STIS<br>
 Ardian Satrio Utomo (16.9021@stis.ac.id)<br>
 Epan Mareza Prima Hendra (16.9104@stis.ac.id)<br>
